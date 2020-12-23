@@ -37,7 +37,7 @@ The application is deployed on Heroku. The see the app, go to (https://murmuring
 ## Platforms
 * MongoDB Atlas
 * Cloudinary
-* MongoDB Atlas
+* Heroku
 ### Clone this repository
 ```sh
 https://github.com/dinobobo/yelp-camp-project.git
@@ -46,6 +46,8 @@ https://github.com/dinobobo/yelp-camp-project.git
 ```sh
 npm install
 ```
+## Getting Started
+> The API secrets and passwords are deliberately hidden. To run this app on your local machine, replace process.env.<value> with approciate values from your own accounts.   
 ### License
 #### [MIT](./LICENSE)
 
